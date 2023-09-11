@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Tiwari 
 - 👀 I’m interested in Software Engineering  
-- 🌱 I’m currently learning Full Stack JAVA Developer
+- 🌱 I’m currently learning Full Stack JAVA Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
